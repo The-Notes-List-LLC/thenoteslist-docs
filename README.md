@@ -1,41 +1,51 @@
-# The Notes List — user guide source
+---
+icon: life-ring
+cover: .gitbook/assets/lxnotes_logo_stacked.png
+coverY: 0
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: background
+    mask: radial
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
 
-Markdown source for [The Notes List](https://thenoteslist.com) user guide.
+# The Notes List Help Center
 
-This repository is **synced bi-directionally with GitBook**. Edits made in the
-GitBook editor are committed here automatically, and commits pushed here appear
-in GitBook. GitBook is the day-to-day authoring surface; this repo is the
-durable source of truth and the build input for the guide as rendered on
-thenoteslist.com.
 
-## Why this repo is separate from the app
 
-The application repo's `main` branch is protected — it requires a pull request
-and passing CI before anything lands. GitBook's Git Sync pushes commits
-**directly** to its configured branch and does not open pull requests, so it
-cannot target a protected branch. Keeping the guide here means the writer can
-publish without a PR gate on every typo, and without the app's CI running on
-prose changes.
+<h2 align="center">What can we help you find?</h2>
 
-It is public deliberately. The guide is public content, and a public repo means
-the site build can read it with no token, no deploy key, and no private
-submodule handling on Vercel.
+<p align="center">Welcome to the Help Center for The Notes List. </p>
 
-## Do not put anything sensitive here
+<p align="center">Utilize this page as a searchable instruction guide to quickly find answers you need or simply explore all of the functionality The Notes List has to offer. </p>
 
-No credentials, no customer data, no internal notes. This repo is public and its
-contents are published on the website.
+<p align="center"><button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">How can we help?</button><a href="https://gitbook.com/" class="button secondary" data-icon="paper-plane">Contact support</a></p>
 
-## Rendering
+&#x20;
 
-Content here is rendered as **markdown**, not MDX. MDX compiles to executable
-JavaScript; this repository is written to by an external editor, so compiling it
-would let repo contents execute during the site build. Markdown rendering has no
-such path. Keep it that way.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3><i class="fa-leaf" style="color:green;">:leaf:</i></h3></td><td><h4><strong>Getting started</strong></h4></td><td>Get help setting up your first production with the The Notes List.</td><td><a href="https://app.gitbook.com/s/eRKQy3wlV3NzsL5BCCo0/getting-started">Getting started</a></td></tr><tr><td><h3><i class="fa-pen" style="color:violet;">:pen:</i></h3></td><td><h4><strong>Notetaking</strong></h4></td><td>Creating Notes, Note Types, Sorting, etc.</td><td><a href="https://app.gitbook.com/s/eRKQy3wlV3NzsL5BCCo0/note-taking">Note Taking</a></td></tr><tr><td><h3><i class="fa-paper-plane" style="color:cyan;">:paper-plane:</i></h3></td><td><h4><strong>Exporting Notes</strong></h4></td><td>Everything you need to start exporting your notes with one-click.</td><td><a href="https://app.gitbook.com/s/eRKQy3wlV3NzsL5BCCo0/exporting-your-notes">Exporting Your Notes</a></td></tr><tr><td><h3><i class="fa-plug" style="color:$warning;">:plug:</i></h3></td><td><h4><strong>Integrations</strong></h4></td><td>Script. Hookup. Screenshots. Imported and referenced.</td><td><a href="https://app.gitbook.com/s/eRKQy3wlV3NzsL5BCCo0/integrations">Integrations</a></td></tr><tr><td><h3><i class="fa-money-bill-wave" style="color:$success;">:money-bill-wave:</i></h3></td><td><h4><strong>Plans and Billing</strong></h4></td><td>Subscription Models, Show-by-Show Passes, The Cuelist Bundle, etc.</td><td><a href="https://app.gitbook.com/s/eRKQy3wlV3NzsL5BCCo0/plans-billing">Plans and billing</a></td></tr><tr><td><h3><i class="fa-gear" style="color:$info;">:gear:</i></h3></td><td><h4><strong>Settings and Contact</strong></h4></td><td>Review in-app settings and find contact information.</td><td><a href="https://app.gitbook.com/s/eRKQy3wlV3NzsL5BCCo0/settings">Settings</a></td></tr></tbody></table>
 
-## Conventions
+&#x20;
 
-- One page per markdown file.
-- Headings drive the on-page table of contents, so keep the hierarchy sane —
-  a single `#` per page, `##` for sections.
-- Images live alongside the pages that use them.
+&#x20;
+
+
+
+&#x20;
