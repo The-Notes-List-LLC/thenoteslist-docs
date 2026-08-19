@@ -13,7 +13,7 @@ You can access your plan from the homepage at any time. All subscriptions come w
 The Notes List provides pricing models in a few models:
 
 * **Individual** (1 Seat Subscription Model)
-  * Discounted Educational Edition Available
+  * Discounted Student rate available — 48 months, for enrolled students, once per person
 * **Institution** (5 Seats Subscription Model with ability to purchase additional seats.)
   * Discounted Educational License Available
 * **Per Show Pass** (One Time purchase with unlimited seats for one production.&#x20;
@@ -22,7 +22,7 @@ The Notes List provides pricing models in a few models:
 To register for a plan please visit: [thenoteslist.com/billing](https://thenoteslist.com/billing)
 
 {% hint style="info" %}
-NOTE: The Individual and Institutional subscription for Student/Educational editions require verification of a current .edu email address.
+NOTE: The Student rate runs for 48 months and then reverts to the standard Individual price. It is for enrolled students, once per person.
 {% endhint %}
 
 <table><thead><tr><th width="209.80078125">Plan</th><th width="123.8046875"># of Seats</th><th>Price Model</th><th width="224.1953125">Price Per Seat Per Year</th></tr></thead><tbody><tr><td>Demo</td><td>1</td><td>$0</td><td>$0</td></tr><tr><td>Individual (Monthly)</td><td>1</td><td>$12.99/mo</td><td>$155.88/seat per year</td></tr><tr><td>Individual (Yearly)</td><td>1</td><td>$129/year</td><td>$155.88/seat per year</td></tr><tr><td>Institution (Yearly Only)</td><td>5</td><td>$349/year</td><td>$70/seat per year</td></tr><tr><td>Educational Institution (Yearly Only)</td><td>5</td><td>$249/year</td><td>$50/seat</td></tr><tr><td>Show Pass</td><td>Unlimited</td><td>$299/show</td><td>n/a</td></tr><tr><td>Student (Monthly)</td><td>1</td><td>$4.49/mo</td><td>$53.88/seat</td></tr><tr><td>Student (Yearly)</td><td>1</td><td>$44/year</td><td>$53.88/seat</td></tr></tbody></table>
