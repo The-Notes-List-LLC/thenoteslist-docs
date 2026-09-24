@@ -28,7 +28,7 @@ Most settings save automatically as you change them. There's no Save button to r
 **General** holds the production's details, shown on screen and on printed notes:
 
 * Production name and abbreviation
-* Production logo. Use **Upload** to add one and **Remove** to go back to the default. A square image (1:1) displays best.
+* Production logo. Use **Upload** to add one and **Remove** to go back to the default. A square image displays best.
 
 Only production admins can change these. Everyone else sees them as view-only.
 {% endstep %}
