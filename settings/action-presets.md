@@ -2,29 +2,37 @@
 icon: clipboard-list
 ---
 
-# Action Presets
+# Presets
+
+**Settings → Presets** holds saved setups for sending and printing notes, so your end-of-day routine is one click instead of ten. Presets belong to the production and are shared with everyone on it.
 
 {% stepper %}
 {% step %}
-### Action Presets
+### Email Message Presets
 
-The **Action Presets** tab enables you to generate custom email and print presets for your exports.&#x20;
+Creating your end-of-day email preset can be one of the most valuable tools The Notes List offers. Use **Add Preset** to fully customize your email export. Options include:
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-07-21 at 12.41.14 AM.png" alt=""><figcaption></figcaption></figure>
+* Preset name
+* Module assigned
+* Email recipients
+* Subject line, with live badges such as the production name or date
+* Message body
+* Filter & sort preset
 
-#### Email Presets
+Use the **All Modules** filter to show only the presets for one module.
 
-Creating your end of day action preset can be one of the most valuable tools TheNotesList offers. This window enables you to fully customize your end of day email export. Customizable options include:
+<figure><img src="../.gitbook/assets/settings-presets.png" alt="Settings → Presets with Email Message Presets, Print Presets and Building Blocks"><figcaption></figcaption></figure>
+{% endstep %}
 
-* Preset Name
-* Module Assigned
-* Email Recipients
-* Subject Line Customization with Live Badges
-* Message Body&#x20;
-* Filter & Sort Preset
+{% step %}
+### Print Presets
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-07-21 at 12.53.22 AM.png" alt=""><figcaption></figcaption></figure>
+**Add Print Preset** saves a PDF setup for a module: which notes to include, how they're sorted, and the page layout. Print presets appear when you print from a notes page.
+{% endstep %}
 
+{% step %}
+### Building Blocks
 
+Open **Building Blocks** to manage filter & sort presets: which statuses, types and priorities to include, and in what order. Email and print presets use these, so you can set up a filter once and reuse it everywhere.
 {% endstep %}
 {% endstepper %}

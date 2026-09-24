@@ -2,17 +2,16 @@
 icon: clipboard-list
 ---
 
-# Work Notes Settings
+# Work & Electrician Notes Settings
 
-Let's take a look at the settings tab and how we can customize our productions to fit our needs.
+Work Notes and Electrician Notes types and priorities are edited in **Settings → Notes**. Pick **Work** or **Electrician** in the module picker at the top. The editors work the same way for every module; see [Note Types & Priorities](cue-note-settings.md) for the basics.
 
 {% stepper %}
 {% step %}
-### Work Notes Settings
+### What's different for Work and Electrician Notes
 
-You are able to change the entire name of the module, adjust the titles and colors of the Work Note Types that appear in the 'Quick Adds' section, and adjust the names and colors of the priority levels assigned to notes.
-
-<figure><img src="../.gitbook/assets/Screenshot 2026-07-21 at 12.39.43 AM.png" alt=""><figcaption></figcaption></figure>
+* **A 9-level priority scale**: Critical, Very High, High, Medium High, Medium, Medium Low, Low, Very Low and Uncritical. The finer scale suits long work lists that get sorted and split between crews.
+* **Separate settings per module.** Work Notes and Electrician Notes each keep their own types and priorities, even though they can be viewed together in Work + Electrician Notes.
+* **Electrician Notes needs the Lighting capability.** If Electrician isn't in the picker, an admin can turn it on under [Modules](production-settings.md).
 {% endstep %}
 {% endstepper %}
-

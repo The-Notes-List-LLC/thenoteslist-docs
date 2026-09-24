@@ -40,12 +40,14 @@
 ## Settings
 
 * [Production Settings](settings/production-settings.md)
-* [Cue Note Settings](settings/cue-note-settings.md)
-* [Work Notes Settings](settings/work-notes-settings.md)
-* [Production Notes Settings](settings/production-notes-settings.md)
-* [Action Presets](settings/action-presets.md)
-* [Team Member Settings](settings/team-member-settings.md)
+* [Note Types & Priorities](settings/cue-note-settings.md)
+  * [Work & Electrician Notes Settings](settings/work-notes-settings.md)
+  * [Production Notes Settings](settings/production-notes-settings.md)
+* [Presets](settings/action-presets.md)
+* [Team Settings](settings/team-member-settings.md)
+* [Integrations Settings](settings/integrations-settings.md)
 * [Backup Settings](settings/backup-settings.md)
+* [Your Settings](settings/your-settings.md)
 
 ## Contact
 

@@ -4,14 +4,13 @@ icon: clipboard-list
 
 # Production Notes Settings
 
+Production Notes types and priorities are edited in **Settings → Notes**. Pick **Production** in the module picker at the top. See [Note Types & Priorities](cue-note-settings.md) for how the editors work.
+
 {% stepper %}
 {% step %}
-### Production Notes Settings
+### What's different for Production Notes
 
-You are able to change the entire name of the module, adjust the titles and colors of the Work Note Types that appear in the 'Quick Adds' section, and adjust the names and colors of the priority levels assigned to notes.
-
-<figure><img src="../.gitbook/assets/Screenshot 2026-07-21 at 12.40.33 AM.png" alt=""><figcaption></figcaption></figure>
-
-###
+* **Department types.** The default types are the departments that get production notes (for example Scenic, Costumes, Props and Sound). Rename, recolor or hide them to match your show's departments, or add your own.
+* **A 5-level priority scale**, the same as Cue Notes: Critical, Very High, Medium, Low and Very Low.
 {% endstep %}
 {% endstepper %}
