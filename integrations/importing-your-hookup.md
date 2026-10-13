@@ -35,6 +35,8 @@ Lightwright 6:
 
 The Notes List offers a download for an automated action for LW6 to organize an export specifically for TNL's import. This download can be found directly in the **Import Hookup CSV** window.&#x20;
 
+You can also download it here: [Download the LW6 automated action](https://thenoteslist.com/thenoteslist-with-position.lwa). Place the file in the Automated Actions folder shown below, then restart Lightwright.
+
 <figure><img src="../.gitbook/assets/Screenshot 2026-07-21 at 1.35.47 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### Creating Custom CSV
