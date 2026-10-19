@@ -35,7 +35,7 @@ After you select your quick add, a window will appear where you can input your n
 
 In this dialogue box you can:&#x20;
 
-* Adjust the note type
+* Choose the note's types (see **Notes with more than one type** below)
 * Set the priority level
 * Enter a corresponding cue number
 * Input the note content
@@ -50,15 +50,19 @@ Select **Create Note** to input the note and go back to the main window. You wil
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-07-20 at 3.25.17 PM.png" alt=""><figcaption></figcaption></figure>
 
-Once the note is created, all team members will be able to view it live. You have three options to dispose of the note.&#x20;
+Once the note is created, all team members will be able to view it live. Each type on the note has its own buttons in the **Status** column:
 
-* The green check will mark as complete.
-* The red **X** will mark as cancelled.
-* The trash icon will delete the note.&#x20;
+* The green check marks that type complete.
+* The red **X** marks that type cancelled.
+* The dash removes that type from the note. It only appears when the note has more than one type.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-07-21 at 12.20.49 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+The trash icon in the **Actions** column deletes the whole note, with all of its types.
+
+<figure><img src="../.gitbook/assets/several-types-status-buttons.png" alt="A Cue note with two types, Cue and Programmer, each with its own check, X and remove buttons" width="563"><figcaption></figcaption></figure>
 
 You are also able to view completed, cancelled, and deleted notes by clicking the tabs in the **Status** area above the quick adds.
+
+A note with more than one type is listed under every tab that one of its types is in, and shows only those types there. A deleted note is listed under **Deleted** only.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-07-21 at 12.22.24 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -73,3 +77,14 @@ All columns in the note-taking window are sortable by clicking the column title.
 <figure><img src="../.gitbook/assets/Screenshot 2026-07-21 at 12.26.16 PM.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+### Notes with more than one type
+
+One note can need several kinds of work, for example a cue change that also needs the programmer. Instead of writing the note twice, give it more than one type.
+
+In the note window, open **Types** and tick every type the note needs. The first type is the one the quick add picked. Select **Create Note** or **Update Note** to save.
+
+<figure><img src="../.gitbook/assets/several-types-note-window.png" alt="The Types list in the note window with Cue and Programmer ticked" width="563"><figcaption></figcaption></figure>
+
+Each type then gets its own line in the list, and each line is finished on its own: the programmer can mark their part complete while the cue part stays open. Click a type's colored label in the list to change it to a different type.
+

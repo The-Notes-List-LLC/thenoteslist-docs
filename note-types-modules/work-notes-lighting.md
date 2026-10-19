@@ -37,6 +37,10 @@ The Work Notes module adds an "in review" status for added communcation between 
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-08-02 at 2.34.44 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
+On a note with more than one type, each type has its own in-review button: the eye, between the check and the X. That way Focus can be in review while the Work part of the same note is still open. The **In Review** tab lists every note that has at least one type in review, and shows only those types.
+
+<figure><img src="../.gitbook/assets/several-types-in-review.png" alt="The In Review tab showing a note's Focus type in review" width="563"><figcaption></figcaption></figure>
+
 &#x20;
 
 ### Adding Work Notes
