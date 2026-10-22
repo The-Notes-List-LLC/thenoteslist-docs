@@ -37,7 +37,7 @@ The Work Notes module adds a **To Approve** status: the electrician has finished
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-08-02 at 2.34.44 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-On a note with more than one type, each type has its own Send for approval button: the eye, between the check and the X. That way Focus can be waiting for approval while the Work part of the same note is still open. The **To Approve** tab lists every note that has at least one type waiting for approval, and shows only those types.
+On a note with more than one type, each type has its own Send for approval button: the paper-plane arrow, between the check and the X. That way Focus can be waiting for approval while the Work part of the same note is still open. The **To Approve** tab lists every note that has at least one type waiting for approval, and shows only those types.
 
 <figure><img src="../.gitbook/assets/several-types-in-review.png" alt="The To Approve tab showing a note's Focus type waiting for approval" width="563"><figcaption></figcaption></figure>
 
