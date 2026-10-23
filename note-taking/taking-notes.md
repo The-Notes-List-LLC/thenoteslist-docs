@@ -56,13 +56,15 @@ Once the note is created, all team members will be able to view it live. Each ty
 * The red **X** marks that type cancelled.
 * The dash removes that type from the note. It only appears when the note has more than one type.
 
-The trash icon in the **Actions** column deletes the whole note, with all of its types.
+The trash icon at the right end of the row deletes the whole note, with all of its types. It asks you to confirm first, then the note disappears for everyone on the show.
 
 <figure><img src="../.gitbook/assets/several-types-status-buttons.png" alt="A Cue note with two types, Cue and Programmer, each with its own check, X and remove buttons" width="563"><figcaption></figcaption></figure>
 
-You are also able to view completed, cancelled, and deleted notes by clicking the tabs in the **Status** area above the quick adds.
+You are also able to view completed and cancelled notes by clicking the tabs in the **Status** area above the quick adds.
 
-A note with more than one type is listed under every tab that one of its types is in, and shows only those types there. A deleted note is listed under **Deleted** only.
+Deleted notes are in **Recently deleted**, next to the status tabs, for 30 days. It shows who deleted each note and when. Anyone on the show can see the list; anyone who can edit notes can **Restore** a note from it. After 30 days a deleted note is removed from the show.
+
+A note with more than one type is listed under every tab that one of its types is in, and shows only those types there.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-07-21 at 12.22.24 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 

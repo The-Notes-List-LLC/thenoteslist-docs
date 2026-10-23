@@ -34,9 +34,11 @@ Once the note is created, all team members will be able to view it live. You hav
 
 * The green check will mark as complete.
 * The red **X** will mark as cancelled.
-* The trash icon will delete the note.&#x20;
+* The trash icon will delete the note. It asks you to confirm first.
 
-You are also able to view completed, cancelled, and deleted notes by clicking the tabs in the **Status** area.
+You are also able to view completed and cancelled notes by clicking the tabs in the **Status** area.
+
+Deleted notes are in **Recently deleted**, next to the status tabs, for 30 days. It shows who deleted each note and when. Anyone on the show can see the list; anyone who can edit notes can **Restore** a note from it. After 30 days a deleted note is removed from the show.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-07-20 at 3.25.17 PM.png" alt=""><figcaption></figcaption></figure>
 

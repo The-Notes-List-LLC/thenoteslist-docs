@@ -37,6 +37,6 @@ A dialogue box will appear with options to hide and unhide to fit your preferenc
 * Note
 * Scenery Needs
 * Script Page
-* User identifiers for Completed, Deleted, Reviewed, or Cancelled Notes.
+* User identifiers for Completed, Reviewed, or Cancelled Notes.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-07-20 at 3.30.31 PM.png" alt=""><figcaption></figcaption></figure>
