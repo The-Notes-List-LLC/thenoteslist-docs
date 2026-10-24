@@ -53,6 +53,8 @@ Deleted notes are in **Recently deleted**, next to the status tabs, for 30 days.
 
 All columns in the note-taking window are sortable by clicking the column title. In this example we've sorted notes using the priority column from highest to lowest.&#x20;
 
+The Notes List remembers your last two sorts, the way a spreadsheet does. Click **Cue #**, then click **Type**: notes are grouped by type, and within each type they stay in cue order. The column titles show a small **1** and **2** so you can see which sort comes first. Click a title again to flip between ascending and descending, or click the column marked **2** to make it the main sort.
+
 <figure><img src="../.gitbook/assets/Screenshot 2026-07-20 at 3.40.58 PM.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

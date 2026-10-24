@@ -16,3 +16,9 @@ icon: sitemap
 This simplified layout still includes the ability to mark notes as completed or cancelled, send them for approval, or delete them with the trash icon at the right end of the row. This page has fully customizable column layout as well.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-08-02 at 2.45.18 PM.png" alt=""><figcaption></figcaption></figure>
+
+### Sort your notes
+
+Open the **Sort** button at the top of the page (on a phone, the **Filter and sort** button). Pick a field under **Sort By**, then choose **Ascending** or **Descending**.
+
+Pick a second field and the first one becomes the tie-breaker, the same as clicking two column titles: the two choices are numbered **1** and **2**. Pick the one marked **2** to swap them. Pick the highlighted **1** again, or select **Clear Sort**, to stop sorting.
