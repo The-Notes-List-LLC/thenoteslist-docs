@@ -37,6 +37,7 @@ A dialogue box will appear with options to hide and unhide to fit your preferenc
 * Note
 * Scenery Needs
 * Script Page
+* Cue Label (Cue Notes only): the cue's label from a linked Cuelist project, such as "Blackout". It shows when Cuelist sends a label for that exact cue number; otherwise the cell shows "-".
 * User identifiers for Completed, Reviewed, or Cancelled Notes.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-07-20 at 3.30.31 PM.png" alt=""><figcaption></figcaption></figure>

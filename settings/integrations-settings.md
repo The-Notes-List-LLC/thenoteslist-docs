@@ -10,7 +10,7 @@ icon: clipboard-list
 {% step %}
 ### Cuelist Sync
 
-When the production is linked to a Cuelist project, script structure and cue placement sync from Cuelist automatically. This card shows when the last sync happened and offers:
+When the production is linked to a Cuelist project, script structure, cue placement and cue labels sync from Cuelist automatically. Cue labels appear in the Cue Label column on Cue Notes. This card shows when the last sync happened and offers:
 
 * **Re-sync from Cuelist** pulls the latest structure right away.
 * **Disconnect from Cuelist** stops syncing. Your script structure, cues and notes stay in place. Use this if the Cuelist project was deleted or you need to link a different one.
