@@ -21,4 +21,4 @@ This simplified layout still includes the ability to mark notes as completed or 
 
 Open the **Sort** button at the top of the page (on a phone, the **Filter and sort** button). Pick a field under **Sort By**, then choose **Ascending** or **Descending**.
 
-Pick a second field and the first one becomes the tie-breaker, the same as clicking two column titles: the two choices are numbered **1** and **2**. Pick the one marked **2** to swap them. Pick the highlighted **1** again, or select **Clear Sort**, to stop sorting.
+Pick a second field and the first one becomes the tie-breaker, the same as clicking two column titles: the two choices are numbered **1** and **2**. Pick the one marked **2** to swap them. When **Date** comes first, it sorts by day, so **Date** then **Cue #** lists each day's notes in cue order. Pick the highlighted **1** again, or select **Clear Sort**, to stop sorting.
