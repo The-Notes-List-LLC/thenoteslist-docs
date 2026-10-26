@@ -30,6 +30,8 @@ Drive the production from a Stream Deck or any surface Bitfocus Companion suppor
 
 Paired stations are listed below with when they were last seen. **Revoke** disconnects one.
 
+With an ETC Eos desk set up in the module, the station also sends the cue list's labels, which fill the Cue Label column on Cue Notes, even when the production isn't linked to Cuelist. A label changed on the desk updates within seconds. Turn this off with **Send cue labels to The Notes List** in the module's settings.
+
 Pairing a station needs an active licence, Show Pass or Dual for the production. Viewers can't pair stations; ask a production admin to set one up.
 {% endstep %}
 {% endstepper %}
