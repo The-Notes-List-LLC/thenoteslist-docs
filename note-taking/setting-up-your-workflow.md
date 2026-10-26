@@ -37,7 +37,7 @@ A dialogue box will appear with options to hide and unhide to fit your preferenc
 * Note
 * Scenery Needs
 * Script Page
-* Cue Label (Cue Notes only): the cue's label from a linked Cuelist project, such as "Blackout". It shows when Cuelist sends a label for that exact cue number; otherwise the cell shows "-".
+* Cue Label (Cue Notes only): the cue's label, such as "Blackout", for that exact cue number. It comes from the lighting desk when a paired Companion station reads an ETC Eos cue list, otherwise from a linked Cuelist project. The desk's label wins when both have one, and hovering the cell shows where it came from. With no label for that cue number the cell shows "-".
 * User identifiers for Completed, Reviewed, or Cancelled Notes.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-07-20 at 3.30.31 PM.png" alt=""><figcaption></figcaption></figure>
