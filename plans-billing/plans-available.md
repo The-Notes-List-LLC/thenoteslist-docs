@@ -17,6 +17,7 @@ The Notes List provides pricing models in a few models:
 * **Institution** (5 Seats Subscription Model with ability to purchase additional seats.)
   * Discounted Educational License Available
 * **Per Show Pass** (One Time purchase with unlimited seats for one production.&#x20;
+* **Dual Show Pass** (One time purchase for one production in both The Notes List and The Cuelist, $499. A production that already has a Show Pass can upgrade to Dual for $200.)
 * **Viewer** (Any user can view The Notes List without a subscription.)
 
 To register for a plan please visit: [thenoteslist.com/billing](https://thenoteslist.com/billing)
