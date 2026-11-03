@@ -48,9 +48,18 @@ Your column setup is saved to your account, so it follows you to any computer yo
 
 To keep a note type active but remove its Quick Add button, click the small sliders icon after the last Quick Add button and untick that type. Every type stays available everywhere else, including the Type filter and the note dialogue. This only changes your own buttons on that show's notes page, and it follows your account.
 
+### More Filters
+
+To narrow the list by when a note was created or who created it, click **More Filters** next to the Type filter. In a narrower window the button reads **More**. A number on the button shows how many of these filters are on.
+
+* **Date created:** choose **Today**, **Yesterday**, **Last 7 days**, or **Custom** to set a **From** and **To** date. Either date can be left empty. Days follow your computer's own time zone.
+* **Created by:** tick one or more names. The number beside each name is how many notes they have on the current tab. Notes with no creator are listed under **Unknown**.
+
+**Clear filters** turns them all off. These filters stay on while you move between pages and clear when you reload the page, so a forgotten filter can't hide notes the next day. To keep a set you use often, save it as a Quick View.
+
 ### Quick View
 
-Quick View gives you three buttons that each save a setup of the page, so you can get back to it with one click. A view saves the status tab, Type filter, sort and columns. It doesn't save anything typed in the search box.
+Quick View gives you three buttons that each save a setup of the page, so you can get back to it with one click. A view saves the status tab, Type filter, More Filters choices, sort and columns. It doesn't save anything typed in the search box.
 
 <figure><img src="../.gitbook/assets/quick-view-row.png" alt="The Quick Add buttons with the Quick View row below them. The first Quick View button is named Cue and is lit, with the Type filter set to Cue."><figcaption></figcaption></figure>
 
