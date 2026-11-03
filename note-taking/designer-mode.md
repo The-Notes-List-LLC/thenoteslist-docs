@@ -25,4 +25,4 @@ Pick a second field and the first one becomes the tie-breaker, the same as click
 
 ### Filter your notes
 
-Open the **Filter** button at the top of the page (on a phone, the **Filter and sort** button) to filter by Type and Priority. **Date created** and **Created by** work the same as [More Filters](setting-up-your-workflow.md#more-filters), and also clear when you reload the page. Type and Priority stay set. The Work + Electrician page doesn't have Date created or Created by.
+Open the **Filter** button at the top of the page (on a phone, the **Filter and sort** button) to filter by Type and Priority. **Date created** and **Created by** work the same as More Filters in [Setting up your Workflow](setting-up-your-workflow.md), and also clear when you reload the page. Type and Priority stay set. The Work + Electrician page doesn't have Date created or Created by.
