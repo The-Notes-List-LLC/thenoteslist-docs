@@ -13,7 +13,7 @@ icon: sitemap
 
 ### Page Layout
 
-This simplified layout still includes the ability to mark notes as completed or cancelled, send them for approval, or delete them with the trash icon at the right end of the row. This page has fully customizable column layout as well.&#x20;
+This simplified layout still includes the ability to mark notes as completed or cancelled, send them for approval, or delete them with the trash icon at the right end of the row. This page has fully customizable column layout as well, saved to your account in the same way as described in [Setting up your Workflow](setting-up-your-workflow.md).&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-08-02 at 2.45.18 PM.png" alt=""><figcaption></figcaption></figure>
 

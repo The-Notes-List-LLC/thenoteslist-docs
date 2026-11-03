@@ -41,3 +41,25 @@ A dialogue box will appear with options to hide and unhide to fit your preferenc
 * User identifiers for Completed, Reviewed, or Cancelled Notes.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-07-20 at 3.30.31 PM.png" alt=""><figcaption></figcaption></figure>
+
+Your column setup is saved to your account, so it follows you to any computer you sign in on. That covers which columns show, their order and width, frozen columns, and sort. On a shared computer each person keeps their own. **Reset** in the columns dialogue resets your other computers too. The demo pages keep their own separate layout.
+
+### Choosing your Quick Add buttons
+
+To keep a note type active but remove its Quick Add button, click the small sliders icon after the last Quick Add button and untick that type. Every type stays available everywhere else, including the Type filter and the note dialogue. This only changes your own buttons on that show's notes page, and it follows your account.
+
+### Quick View
+
+Quick View gives you three buttons that each save a setup of the page, so you can get back to it with one click. A view saves the status tab, Type filter, sort and columns. It doesn't save anything typed in the search box.
+
+<figure><img src="../.gitbook/assets/quick-view-row.png" alt="The Quick Add buttons with the Quick View row below them. The first Quick View button is named Cue and is lit, with the Type filter set to Cue."><figcaption></figcaption></figure>
+
+**To save a view:** set up the page the way you want it, click the save icon next to a button, type a name of up to 20 characters, and select **Save view**. Clicking a button that has nothing saved opens the same box. To replace a saved view, click its save icon and save again.
+
+**To use a view:** click its button. The button lights up and the page changes to match. Click the lit button again to go back to what you had before. Going back doesn't survive a page reload.
+
+A dot on a lit button means you've changed something since the view was saved. If a view uses a note type or sort column that is no longer available on the show, the rest of the view still applies and a message tells you what was skipped.
+
+Views are saved to your account, separately for each show and notes page. They're on Cue, Work, Electrician and Production Notes in the standard desktop layout, not in Designer Mode, on a phone, or on the Work + Electrician page. You can use them even if your account can't add notes.
+
+Column layouts are shared across your shows. Recalling a view on one show also changes the columns and sort on that notes page in your other shows.
